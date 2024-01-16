@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GoodTeas>
+	<Tea>
+		<Name>African Solstice</Name>
+		<Type>Herbal</Type>
+		<CaffeineContent>0</CaffeineContent>
+		<SteepTime>4</SteepTime>
+		<WaterTemperature>212</WaterTemperature>
+		<Notes>Naturally caffeine free rooibos tea layered with sweet berries and rose</Notes>
+		<Rating>5</Rating>
+	</Tea>
+	<Tea>
+		<Name>Winter Chai</Name>
+		<Type>Herbal</Type>
+		<CaffeineContent>0</CaffeineContent>
+		<SteepTime>3</SteepTime>
+		<WaterTemperature>212</WaterTemperature>
+		<Notes>Rooibos and exotic cardamom meet sweetly fragrant vanilla.</Notes>
+		<Rating>4</Rating>
+	</Tea>
+</GoodTeas>
