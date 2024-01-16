@@ -139,6 +139,7 @@
             this.addTeaButton.TabIndex = 1;
             this.addTeaButton.Text = "Add Tea";
             this.addTeaButton.UseVisualStyleBackColor = false;
+            this.addTeaButton.Click += new System.EventHandler(this.addTeaButton_Click);
             // 
             // removeTeaButton
             // 

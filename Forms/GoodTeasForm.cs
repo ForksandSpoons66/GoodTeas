@@ -24,5 +24,10 @@ namespace GoodTeas
             // Fill in the Tea DataGridView
             teaService.AddTeasToDataGridView(teas, teasDataGridView);
         }
+
+        private void addTeaButton_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Adding Tea is not supported right now");
+        }
     }
 }
